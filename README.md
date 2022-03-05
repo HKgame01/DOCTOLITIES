@@ -1,2 +1,2 @@
-# hackmecred7-and-a-hack-a-day
+# DOCTOLITIES
 Hackathon
