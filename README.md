@@ -1,5 +1,5 @@
 # ☁️ Inspiration
-
+Based on the health/medical and open innovation website, we were inspired to create a health and innovative website that provides you with a login feature and leads to a petition to sign, feedback, a greeting card, and solutions to solve medical problems.
 
 # 🚧 What It Does
 As said above, this website provides health tools and a greeting card. The website first has a petition that you can sign, some solutions, and a feedback page for doctors. 
